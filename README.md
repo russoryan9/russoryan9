@@ -1,7 +1,7 @@
 ## About Me
 
 
-Hi!, my name is Ryan Russo. I'm a Computer Science/Data Science student at the University of Virginia. I'm looking to build my portfolio with data science and sports analytics projects. Feel free to reach out to collaborate.
+Hi! I'm Ryan Russo. I'm a 4th year student in the University of Virginia's School of Engineering and Applied Science studying Computer Science/Data Science. I'm looking to build my portfolio with data science and sports analytics projects. Feel free to reach out to collaborate or connect.
 
 - 🔭 I’m currently working on AWS Certifications
 - 🌱 I’m currently learning about Data Science and Machine Learning
